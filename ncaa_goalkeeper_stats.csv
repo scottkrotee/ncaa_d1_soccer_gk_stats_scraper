@@ -7,7 +7,7 @@ Rank,Name,Team,Cl,Games,Saves,GA,Goalie Min. Plyd,Pct.
 -,Joao Mesquita,Oral Roberts,Sr.,8,35,7,644,.833
 -,Ryan Eapen,William & Mary,So.,7,30,6,598,.833
 -,Matias Molina,Seton Hall,Jr.,5,10,2,450,.833
-9,Hugo Do Rego,California Baptist,So.,8,49,10,720,.831
+9,Hugo Do Rego,California Baptist,So.,9,53,11,810,.828
 10,Javier Ramirez,Central Ark.,Jr.,8,43,9,720,.827
 11,Valentin Kneis,La Salle,Jr.,6,19,4,481,.826
 -,Ky Mani Dade,LMU (CA),Jr.,5,19,4,450,.826
@@ -33,39 +33,38 @@ Rank,Name,Team,Cl,Games,Saves,GA,Goalie Min. Plyd,Pct.
 32,Matthew Tibbetts,American,Jr.,10,45,12,900,.789
 -,Adam Salama,Rider,Jr.,9,30,8,803,.789
 -,Martin Dominguez,SMU,Jr.,5,15,4,450,.789
-35,Nate Martinez,Ga. Southern,Jr.,8,26,7,720,.788
-36,Aleksa Janjic,Marshall,Jr.,5,11,3,450,.786
-37,Josh Hangi,Georgia St.,Sr.,9,40,11,765,.784
-38,Leo Stritter,Charlotte,Jr.,9,18,5,810,.783
+35,Robert Gjelaj,SIUE,Sr.,9,41,11,781,.788
+36,Nate Martinez,Ga. Southern,Jr.,8,26,7,720,.788
+37,Aleksa Janjic,Marshall,Jr.,5,11,3,450,.786
+38,Josh Hangi,Georgia St.,Sr.,9,40,11,765,.784
+39,Leo Stritter,Charlotte,Jr.,9,18,5,810,.783
 -,Phillip Falcon III,Penn,So.,8,18,5,720,.783
-40,Karl Netzell,Quinnipiac,Jr.,8,25,7,663,.781
+41,Karl Netzell,Quinnipiac,Jr.,8,25,7,663,.781
 -,Drew Berry,Bradley,Jr.,7,25,7,556,.781
-42,JR Gawel,UMass Lowell,Jr.,9,39,11,810,.780
-43,Nicky McCune,Cal Poly,Jr.,10,28,8,896,.778
+43,JR Gawel,UMass Lowell,Jr.,9,39,11,810,.780
+44,Nicky McCune,Cal Poly,Jr.,10,28,8,896,.778
 -,Nic Lemen,Northern Ky.,Jr.,9,28,8,810,.778
 -,Nigel Van Haveren,FIU,So.,9,42,12,810,.778
 -,Nic Diana,Purdue Fort Wayne,Jr.,9,21,6,720,.778
 -,Tenzing Manske,Georgetown,Jr.,8,21,6,720,.778
 -,Cabral Carter,Pittsburgh,Jr.,6,14,4,540,.778
-49,Robert Gjelaj,SIUE,Sr.,8,38,11,691,.776
 50,Pierce Holbrook,Navy,Sr.,10,40,12,900,.769
 -,Mac Learned,Sacramento St.,Sr.,10,50,15,855,.769
+-,Alex Aitken,Houston Christian,Jr.,8,30,9,720,.769
 -,Filip Sabatti,Memphis,Jr.,8,30,9,720,.769
-53,Laurin Mack,Maryland,Fr.,9,23,7,765,.767
-54,Emigdio Lopez,UMBC,Jr.,10,49,15,900,.766
-55,Zac Kelly,Michigan St.,Sr.,10,32,10,880,.762
--,Marco Brougher,California,Jr.,9,32,10,769,.762
+54,Laurin Mack,Maryland,Fr.,9,23,7,765,.767
+55,Emigdio Lopez,UMBC,Jr.,10,49,15,900,.766
+56,Zac Kelly,Michigan St.,Sr.,10,32,10,880,.762
 -,Antreas Hadjigavriel,Bryant,Sr.,9,16,5,735,.762
 58,Bennet Glinder,Siena,So.,9,19,6,807,.760
 59,Isaiah Goldson,Michigan,So.,7,22,7,630,.759
 60,Peter Van Euwen,Bellarmine,Sr.,7,25,8,618,.758
 -,Carter Abbott,Fordham,Sr.,7,25,8,612,.758
 -,Fernando Carreon,UTRGV,So.,6,25,8,476,.758
-63,Alex Aitken,Houston Christian,Jr.,7,28,9,630,.757
-64,Jonathan Munteanu,UAB,So.,9,31,10,810,.756
+63,Jonathan Munteanu,UAB,So.,9,31,10,810,.756
 -,Michael Statham,Old Dominion,Jr.,9,31,10,810,.756
-66,Marc Kouadio,ETSU,Sr.,9,46,15,772,.754
-67,Brendan Graves,Bowling Green,Sr.,10,30,10,900,.750
+65,Marc Kouadio,ETSU,Sr.,9,46,15,772,.754
+66,Brendan Graves,Bowling Green,Sr.,10,30,10,900,.750
 -,David Mitzner,UC Santa Barbara,Sr.,10,24,8,900,.750
 -,Jeremi Abonnel,Saint Louis,Sr.,9,18,6,810,.750
 -,Nathanael Sallah,Omaha,Sr.,9,30,10,810,.750
@@ -73,51 +72,52 @@ Rank,Name,Team,Cl,Games,Saves,GA,Goalie Min. Plyd,Pct.
 -,Sam Joseph,UCLA,Jr.,6,21,7,540,.750
 -,Leo Ledin,Wofford,Fr.,6,12,4,540,.750
 -,Patrick McLaughlin,Ohio St.,Fr.,5,9,3,434,.750
-75,Stockton Short,Utah Tech,Jr.,8,53,18,720,.746
-76,Henrik Weiper,Brown,Jr.,8,32,11,711,.744
-77,Jamie Barry,Niagara,Jr.,9,58,20,810,.744
+74,Henrik Weiper,Brown,Jr.,8,32,11,711,.744
+75,Jamie Barry,Niagara,Jr.,9,58,20,810,.744
+-,Owen Moore,Liberty,Jr.,8,29,10,703,.744
 -,Alex Yagudayev,Villanova,Fr.,5,29,10,405,.744
-79,Lukas Burns,Providence,Sr.,10,26,9,900,.743
+78,Lukas Burns,Providence,Sr.,10,26,9,900,.743
 -,Ryan Friedberg,Cornell,Jr.,9,26,9,810,.743
-81,Griffin Huff,Lafayette,Sr.,7,23,8,630,.742
-82,Chema Preciado,Gonzaga,So.,11,37,13,990,.740
-83,Merrick Cook,CSUN,So.,9,34,12,810,.739
+80,Griffin Huff,Lafayette,Sr.,7,23,8,630,.742
+81,Chema Preciado,Gonzaga,So.,11,37,13,990,.740
+82,Merrick Cook,CSUN,So.,9,34,12,810,.739
 -,Rushon Sandy,Stony Brook,Jr.,9,34,12,810,.739
-85,Tomas Hut,Syracuse,Sr.,11,31,11,945,.738
-86,Andrew Cordes,North Carolina,Jr.,9,14,5,810,.737
-87,Joseph Andema,Clemson,Jr.,9,25,9,779,.735
-88,JT Harms,Indiana,Sr.,10,36,13,900,.735
-89,Ciaran Dalton,Rutgers,Jr.,10,44,16,900,.733
+84,Tomas Hut,Syracuse,Sr.,11,31,11,945,.738
+85,Andrew Cordes,North Carolina,Jr.,9,14,5,810,.737
+86,Joseph Andema,Clemson,Jr.,9,25,9,779,.735
+87,JT Harms,Indiana,Sr.,10,36,13,900,.735
+88,Ciaran Dalton,Rutgers,Jr.,10,44,16,900,.733
+-,Stockton Short,Utah Tech,Jr.,9,55,20,810,.733
 -,Harvey Sellers,Louisville,So.,7,22,8,627,.733
 91,Rowan Schnebly,Stanford,So.,10,19,7,892,.731
-92,Owen Moore,Liberty,Jr.,7,27,10,613,.730
-93,Eoin Gawronski,LIU,Sr.,10,35,13,900,.729
+92,Eoin Gawronski,LIU,Sr.,10,35,13,900,.729
 -,Olly Marshall,Col. of Charleston,Jr.,10,35,13,894,.729
-95,Jadon Bowton,Washington,Sr.,10,24,9,900,.727
+94,Jadon Bowton,Washington,Sr.,10,24,9,900,.727
 -,Nacho Alfaro,Fla. Atlantic,Jr.,8,24,9,720,.727
 -,Zenden Hart,CSU Bakersfield,Jr.,8,24,9,692,.727
 -,Flannan Riley,Temple,Sr.,5,24,9,450,.727
-99,Nicolò Radaelli,Stetson,Jr.,8,29,11,718,.725
-100,Alex Eydelman,Radford,Sr.,8,42,16,697,.724
+98,Nicolò Radaelli,Stetson,Jr.,8,29,11,718,.725
+99,Alex Eydelman,Radford,Sr.,8,42,16,697,.724
+100,Marco Brougher,California,Jr.,10,34,13,859,.723
 101,John Ermini,VCU,Sr.,9,26,10,810,.722
 102,Zack Murphy,VMI,Jr.,9,44,17,796,.721
 103,Devin Armstrong,NJIT,Jr.,9,31,12,708,.721
 104,Oliver Townend,Colgate,Sr.,7,23,9,630,.719
 105,Brennan Klein,Boston College,Sr.,10,28,11,900,.718
--,Ben Williams,Utah Valley,Jr.,9,28,11,810,.718
-107,Christian Sekanina,Jacksonville,Jr.,10,33,13,900,.717
-108,Nolan Premack,UC San Diego,Sr.,10,45,18,900,.714
+106,Christian Sekanina,Jacksonville,Jr.,10,33,13,900,.717
+107,Nolan Premack,UC San Diego,Sr.,10,45,18,900,.714
 -,Alex Geczy,Massachusetts,Sr.,10,30,12,888,.714
 -,Costi Christodoulou,Dartmouth,Sr.,7,25,10,630,.714
 -,Alan Horrocks,Gardner-Webb,Jr.,7,20,8,606,.714
 -,Casper Mols,Kentucky,Jr.,5,20,8,450,.714
 -,Enzo Carvalho,NC State,Sr.,5,15,6,422,.714
--,Chad Smith,Eastern Ill.,Sr.,5,25,10,405,.714
-115,Max Hinke,Longwood,Jr.,9,42,17,810,.712
-116,Felix Schaefer,South Fla.,Sr.,9,32,13,810,.711
-117,Josh Lane,Robert Morris,So.,10,29,12,876,.707
-118,Ludvig Malberg,Manhattan,Jr.,8,24,10,720,.706
+113,Max Hinke,Longwood,Jr.,9,42,17,810,.712
+114,Ben Williams,Utah Valley,Jr.,10,32,13,900,.711
+-,Felix Schaefer,South Fla.,Sr.,9,32,13,810,.711
+116,Josh Lane,Robert Morris,So.,10,29,12,876,.707
+117,Ludvig Malberg,Manhattan,Jr.,8,24,10,720,.706
 -,Stephen Yerian,Cleveland St.,So.,8,36,15,720,.706
+119,Chad Smith,Eastern Ill.,Sr.,6,31,13,495,.705
 120,Erik Lauta,New Hampshire,Jr.,8,19,8,720,.704
 -,Dario Caetano,Dayton,Sr.,7,19,8,630,.704
 122,Chris Edwards,Yale,Sr.,8,33,14,720,.702
@@ -132,20 +132,20 @@ Rank,Name,Team,Cl,Games,Saves,GA,Goalie Min. Plyd,Pct.
 131,Carlos Gonzalez,UC Riverside,Sr.,8,32,14,720,.696
 -,Samy Slimi,Campbell,So.,7,16,7,630,.696
 133,Jack Kilstrom,Winthrop,So.,7,25,11,525,.694
--,William Collins,Air Force,Fr.,6,25,11,452,.694
-135,Spencer King,FDU,Sr.,10,34,15,900,.694
+134,Spencer King,FDU,Sr.,10,34,15,900,.694
 -,Alvaro Rodriguez,Green Bay,Sr.,8,34,15,720,.694
-137,Tomas Butkovic,Drake,Fr.,10,27,12,900,.692
+136,Tomas Butkovic,Drake,Fr.,10,27,12,900,.692
 -,Brandon Limes,Cal St. Fullerton,Sr.,10,36,16,884,.692
 -,Nelton Semedo,Merrimack,Sr.,8,36,16,720,.692
 -,Oliver Weng,FGCU,Fr.,7,27,12,630,.692
-141,Rafael Ponce De Leon,Northwestern,Jr.,10,20,9,900,.690
+140,Rafael Ponce De Leon,Northwestern,Jr.,10,20,9,900,.690
 -,Jaume Salvado,George Mason,Sr.,9,20,9,810,.690
 -,Shane Wright,UCF,Fr.,6,20,9,540,.690
-144,Josh Caron,High Point,Jr.,5,15,7,450,.682
+143,William Collins,Air Force,Fr.,7,30,14,542,.682
+-,Josh Caron,High Point,Jr.,5,15,7,450,.682
 -,Lucian Wood,Harvard,Jr.,4,15,7,360,.682
 146,Santiago Davila,DePaul,Sr.,9,34,16,810,.680
 -,Joey Batrouni,Virginia,Sr.,9,17,8,799,.680
-148,Mitch Budler,Akron,Jr.,10,26,13,900,.667
+-,Hugo Lemos,UNLV,So.,8,34,16,675,.680
+149,Mitch Budler,Akron,Jr.,10,26,13,900,.667
 -,Blake Gillingham,Creighton,Jr.,10,26,13,900,.667
--,Trace Alphin,Wake Forest,Sr.,10,24,12,892,.667
