@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import plotly.graph_objects as go
 import numpy as np
+import os
+from datetime import datetime
 
 # Base URL and page identifiers for top 50 NCAA goalkeeper stats
 base_url = 'https://www.ncaa.com/stats/soccer-men/d1/current/individual/421/'
@@ -61,10 +63,24 @@ for page in pages:
 if all_headers and all_rows:
     # Create a DataFrame from the concatenated data
     df = pd.DataFrame(all_rows, columns=all_headers)
-    
-    # Save the DataFrame to a CSV file
-    df.to_csv('ncaa_goalkeeper_stats.csv', index=False)
-    print("Data saved to ncaa_goalkeeper_stats.csv")
+
+    # Get today's date in YYYY-MM-DD format
+    today_date = datetime.today().strftime('%Y-%m-%d')
+
+    # Define the folder path where you want to save the file
+    folder_path = r'C:\Users\scott\OneDrive\Desktop\VS Code\Web Scraping\ncaa-d1-soccer-gk-stats-scraper'
+
+    # Ensure the folder exists (optional, but good practice)
+    os.makedirs(folder_path, exist_ok=True)
+
+    # Create the full file path with date in the filename
+    file_path = os.path.join(folder_path, f"ncaa_goalkeeper_stats_{today_date}.csv")
+
+    # Save the DataFrame to the specified folder with the date in the filename
+    df.to_csv(file_path, index=False)
+
+    print(f"✅ Data saved successfully to: {file_path}")
+
     
     # Convert relevant columns to numeric for plotting
     df['Saves'] = pd.to_numeric(df['Saves'], errors='coerce')
