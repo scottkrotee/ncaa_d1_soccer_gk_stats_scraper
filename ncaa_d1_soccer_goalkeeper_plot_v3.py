@@ -100,7 +100,7 @@ if all_headers and all_rows:
         ])
 
         fig.update_layout(
-            title='Top NCAA Goalkeepers Stats (Dark Mode)',
+            title='Top NCAA Goalkeeper Stats (Dark Mode)',
             title_x=0.5,
             paper_bgcolor='black',
             font=dict(color='white')
