@@ -84,7 +84,7 @@ if all_headers and all_rows:
     
     # Convert relevant columns to numeric for plotting
     df['Saves'] = pd.to_numeric(df['Saves'], errors='coerce')
-    df['Pct.'] = pd.to_numeric(df['Pct.'].str.rstrip('%'), errors='coerce')  # Remove '%' and convert to float
+    df['Pct.'] = pd.to_numeric(df['Pct.'].str.rstrip('%'), errors='coerce') * 100  # Remove '%' and convert to percentage
 
     ### Display Dark Mode Table Using Plotly ###
     def display_table(df):
