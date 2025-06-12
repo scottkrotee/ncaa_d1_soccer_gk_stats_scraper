@@ -38,7 +38,7 @@ pip install requests beautifulsoup4 pandas plotly
 ### Example Execution
 
 ```bash
-python ncaa_d1_goalkeeper_scraper.py
+python ncaa_d1_soccer_goalkeeper_plot_v3.py
 ```
 
 The script will print the scraping progress, save the data to a CSV file, and display the visualizations directly.
